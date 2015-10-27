@@ -1,5 +1,6 @@
 
 /*Troubleshooting border*/
+
 /* * {
 	border: 1px solid red;
 }*/
@@ -239,6 +240,15 @@ footer {
     background-color: #f0f0f0;
     clear: both;
     vertical-align: baseline;
+}
+
+.footer-content > p {
+  float:left;
+  font-size:11px;
+  font-family: sans-serif;
+  color: #808080;
+  padding-left:1%;
+  padding-top:10px;
 }
 
 .social-media {
