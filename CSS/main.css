@@ -1,3 +1,4 @@
+
 /*Troubleshooting border*/
 /* * {
 	border: 1px solid red;
@@ -23,6 +24,11 @@ section {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     /*display:flex; */
+}
+
+
+.container {
+  width:100%;
 }
 
 /* headings */
@@ -265,7 +271,6 @@ footer {
 		display:flex;
 		flex: flex-wrap;
 	}
-
 }*/
 
 /* Smartphones (portrait) ----------- */
@@ -408,3 +413,5 @@ footer {
         width: 350px;
     }
 }
+Status API Training Shop Blog About Pricing
+© 2015 GitHub, Inc. Terms Privacy Security Contact Help
